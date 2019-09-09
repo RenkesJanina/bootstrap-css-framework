@@ -6,6 +6,8 @@ Project to understant working/usage of bootstrap and a large range of its featur
 
 It'a a restaurants web page with main page, menu card, galerie and 3 different locations of the retaurant. For more check out the page ;)
 
+see in action:  https://renkesjanina.github.io/bootstrap-css-framework/.
+
 <img src="./bayrischesHerzGlueck.png" style="width:30%;">
 
 
