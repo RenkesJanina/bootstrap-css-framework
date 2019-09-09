@@ -1,0 +1,39 @@
+body {
+    background-image: url("css/Photo/background/holz.jpg");
+    font-weight: bolder;
+    color: bisque;
+    text-align: center;
+}
+nav{
+    background-image: url("css/Photo/background/blau.jpg");
+    font-weight: bolder;
+    color: red;
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.btn btn-primary{
+    background-color: blue;
+}
+
+footer{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+
+.card{
+    background: black;
+}
+
+.card .list-group-item{
+    background: black;
+} 
+
+
