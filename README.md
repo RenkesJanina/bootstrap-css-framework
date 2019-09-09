@@ -19,5 +19,5 @@ LinkedIn : https://www.linkedin.com/in/janina-renkes-157727114/
 
 Thanks to...
 
-Mike and Adam. They helped me tu understand bootstrap and debugg my page. Thanks a lot!
+Mike and Adam. They helped me to understand bootstrap and debugg my page. Thanks a lot!
 
